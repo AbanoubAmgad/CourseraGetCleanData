@@ -18,4 +18,4 @@
 * Construct a "tidy" data set with all of the above
 * Using more descriptive names for variables using "gsub" function
 * Melts the datafrae .. reshapes it then uses "dcast" to get the mean of each variable
-* Outputs the data to a text file using "write.table"
+* Outputs the data to a text file using "write.table" function
